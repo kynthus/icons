@@ -1,0 +1,10 @@
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle1" "curve1" ;
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle2" "curve2";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle3" "curve3";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle4" "curve4";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle5" "curve5";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle6" "curve6";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle7" "curve7";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle8" "curve8";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle9" "curve9";
+extrude -ch true -rn false -po 1 -et 2 -ucp 0 -fpt 0 -upn 1 -rotation 0 -scale 1 -rsp 1 "nurbsCircle10" "curve10";
